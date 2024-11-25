@@ -1,0 +1,52 @@
+{
+  "input": {
+    "gap": {
+      "value": "{spacing.md}",
+      "type": "spacing"
+    },
+    "padding": {
+      "x": {
+        "value": "{spacing.lg}",
+        "type": "spacing"
+      },
+      "y": {
+        "value": "{spacing.md}",
+        "type": "spacing"
+      }
+    },
+    "color": {
+      "label": {
+        "value": "{colors.text.body}",
+        "type": "color"
+      },
+      "helpText": {
+        "value": "{colors.primary.dark}",
+        "type": "color"
+      },
+      "placeholder": {
+        "value": "{colors.KinglyCloud.60}",
+        "type": "color"
+      }
+    },
+    "border": {
+      "color": {
+        "value": "{colors.KinglyCloud.60}",
+        "type": "color"
+      }
+    },
+    "radius": {
+      "value": "{radius.sm}",
+      "type": "borderRadius"
+    },
+    "label": {
+      "lineheight": {
+        "value": "{lineHeights.tight}",
+        "type": "lineHeights"
+      }
+    },
+    "bkg": {
+      "value": "{colors.white}",
+      "type": "color"
+    }
+  }
+}
