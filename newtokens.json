@@ -1,0 +1,132 @@
+{
+  "Alias": {
+    "blue": {
+      "$type": "color",
+      "$value": "{blue}"
+    },
+    "purple": {
+      "$type": "color",
+      "$value": "{purple}"
+    },
+    "red": {
+      "$type": "color",
+      "$value": "{red}"
+    },
+    "green": {
+      "$type": "color",
+      "$value": "#09644d"
+    },
+    "white": {
+      "$type": "color",
+      "$value": "{white}"
+    },
+    "primary": {
+      "100": {
+        "$type": "color",
+        "$value": "{purple.100}"
+      },
+      "200": {
+        "$type": "color",
+        "$value": "{purple.200}"
+      },
+      "300": {
+        "$type": "color",
+        "$value": "{purple.300}"
+      },
+      "400": {
+        "$type": "color",
+        "$value": "{purple.400}"
+      },
+      "500": {
+        "$type": "color",
+        "$value": "{purple.500}"
+      },
+      "600": {
+        "$type": "color",
+        "$value": "{purple.600}"
+      }
+    },
+    "secondary": {
+      "100": {
+        "$type": "color",
+        "$value": "{red.100}"
+      },
+      "200": {
+        "$type": "color",
+        "$value": "{red.200}"
+      },
+      "300": {
+        "$type": "color",
+        "$value": "{red.300}"
+      },
+      "400": {
+        "$type": "color",
+        "$value": "{red.400}"
+      },
+      "500": {
+        "$type": "color",
+        "$value": "{red.500}"
+      },
+      "600": {
+        "$type": "color",
+        "$value": "{red.600}"
+      }
+    },
+    "success": {
+      "100": {
+        "$type": "color",
+        "$value": "{blue.100}"
+      },
+      "200": {
+        "$type": "color",
+        "$value": "{blue.200}"
+      },
+      "300": {
+        "$type": "color",
+        "$value": "{blue.300}"
+      },
+      "400": {
+        "$type": "color",
+        "$value": "#1cc248"
+      },
+      "500": {
+        "$type": "color",
+        "$value": "{blue.500}"
+      },
+      "600": {
+        "$type": "color",
+        "$value": "{blue.600}"
+      }
+    },
+    "neutral": {
+      "100": {
+        "$type": "color",
+        "$value": "{grey.100}"
+      },
+      "200": {
+        "$type": "color",
+        "$value": "{grey.200}"
+      },
+      "300": {
+        "$type": "color",
+        "$value": "{grey.300}"
+      },
+      "400": {
+        "$type": "color",
+        "$value": "{grey.400}"
+      },
+      "500": {
+        "$type": "color",
+        "$value": "{grey.500}"
+      },
+      "600": {
+        "$type": "color",
+        "$value": "{grey.600}"
+      }
+    }
+  },
+  "Color": {
+    "$type": "color",
+    "$value": "#ffffff"
+  }
+}
